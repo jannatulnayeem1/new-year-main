@@ -7,67 +7,76 @@ body{
     background-image: url(../images/banner/banner2.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 250px;
+    height: 850px;
 }
 .top-banner-text{
     color: rgb(21, 12, 12);
-    padding-right: 50px;
-    padding-top: 45px;
+    padding-right: 120px;
+    padding-top: 200px;
     text-align: right;
 }
 .m-text{
-    font-size: 20px;
+    font-size: 55px;
 }
 .p-text{
-    font-size: 8px;
+    font-size: 15px;
+    padding-bottom: 50px;
     color: rgb(31, 30, 30);
 }
 .btn-style{
     background-color: orangered;
-    font-weight: 700px;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 20px;
     border: none;
     outline: none;
-    border-radius: 3px;
-    padding: 5px;
+    border-radius: 7px;
+    padding: 20px;
+    margin-bottom: 100px;
 }
 .mt{
     display: flex;
-    margin-top: 50px;
+    margin-top: 150px;
 }
 .banner-two-person{
-    width: 50%;
-    padding-left: 5px;
+    width: 40%;
+    height: 20%;
+    padding-left: 180px;
+    
 }
 .person-banner-text{
     color: rgb(21, 12, 12); 
     padding-top: 60px;
-    padding-left: 28px;
+    padding-left: 110px;
     text-align: left;
 }
 .person-text{
-    font-size:20px ;
+    font-size:50px ;
+    padding-top: 30%;
+}
+.p-texts{
+    font-size: 15px;
 }
 .p-top{
-    padding-top: 30px;
+    padding-top: 100px;
 }
 .text-center{
     text-align: center;
+    font-size:50px ;
 }
 .img1-size{
-    width: 35px;
-    padding-left: 28px;
+    padding-left: 58%;
 }
 .img2-size{
-    width: 35px;
-    padding-left: 18px;
+    padding-left: 48%;
 }
 .img3-size{
-    width: 35px;
-    padding-left: 20px;
+    /* width: 100%; */
+    padding-left: 48%;
 }
 .img4-size{
-    width: 35px;
-    padding-left: 20px;
+    /* width: 100%; */
+    padding-left: 50%;
 }
 .mt-img{
     display: flex;
@@ -76,20 +85,20 @@ body{
 }
 .heading-size{
     margin-top: 8px;
-    padding-right: 6px;
+    padding-left: 140px;
     
 }
 .heading2-size{
     margin-top: 8px;
-    padding-left: 8px;
+    padding-left: 80px;
 }
 .heading3-size{
     margin-top: 8px;
-    padding-right: 20px;
+    padding-left: 80px;
 }
 .heading4-size{
     margin-top: 8px;
-    padding-left: 13px;
+    padding-left: 120px;
 }
 .content1{
     padding-right: 20px;
@@ -104,33 +113,32 @@ body{
     padding-left: 5px;
 }
 .text1-size{
-    font-size: 8px;
-    padding-left: 20px;
-    color: gray;
-    margin-top: -18px;
-    /* margin-bottom: 50px; */
+    font-size: 20px;
+    padding-left: 180px;
+    color: rgb(34, 32, 32);
+    margin-top: -2px;
 }
 .text2-size{
-    font-size: 8px;
-    margin-top: -18px;
-    padding-left: 11px;
-    color: gray;
+    font-size: 20px;
+    margin-top: -2px;
+    padding-left: 78px;
+    color: rgb(37, 32, 32);
 }
 .text3-size{
-    font-size: 8px;
-    padding-left: 15px;
-    margin-top: -18px;
-    color: gray;
+    font-size: 20px;
+    padding-left: 110px;
+    margin-top: -2px;
+    color: rgb(34, 32, 32);
 }
 .text4-size{
-    font-size: 8px;
-    padding-left: 15px;
-    margin-top: -18px;
-    color: gray;
+    font-size: 20px;
+    padding-left: 115px;
+    margin-top: -2px;
+    color: rgb(37, 32, 32);
 }
 .second-banner-img{
     height: 300px;
-    width: 1130px;
+    width: 1139px;
 background-image: url(../images/gradient3.png),url(../images/watch.png);
 background-repeat: no-repeat repeat;
 /* background-size: cover; */
@@ -140,16 +148,18 @@ color: #FFFFFF;
 }
 .call-now-btn{
     background-color:#FFFFFF;
-    font-weight: 700px;
+    font-weight: bold;
+    font-size: 25px;
     border: none;
     outline: none;
-    color: rgb(242, 98, 15);
-    padding: 5px;
-    margin-left: 20px;
+    color: rgb(246, 107, 26);
+    padding:18px 25px;
+    margin-left: 40px;
+    border-radius: 5%;
 }
 .text-color{
-    padding-top: 80px;
-
-    padding-left: 20px;
-   
+    padding-top: 60px;
+    font-size: 40px;
+    padding-left: 40px;
+ 
 }
