@@ -12,7 +12,7 @@ body{
 .top-banner-text{
     color: rgb(21, 12, 12);
     padding-right: 120px;
-    padding-top: 130px;
+    padding-top: 100px;
     text-align: right;
 }
 .m-text{
@@ -70,22 +70,22 @@ body{
     font-size:50px ;
 }
 .img1-size{
-    padding-left: 58%;
+    padding-left: 55%;
 }
 .img2-size{
-    padding-left: 48%;
+    padding-left: 45%;
 }
 .img3-size{
    
-    padding-left: 48%;
+    padding-left: 45%;
 }
 .img4-size{
     
-    padding-left: 50%;
+    padding-left: 48%;
 }
 .mt-img{
     display: flex;
-    padding-left: 35px;
+    padding-right: 11%;
     padding-top: 10px;
 }
 .heading-size{
