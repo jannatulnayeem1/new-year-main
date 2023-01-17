@@ -12,7 +12,7 @@ body{
 .top-banner-text{
     color: rgb(21, 12, 12);
     padding-right: 120px;
-    padding-top: 200px;
+    padding-top: 130px;
     text-align: right;
 }
 .m-text{
@@ -32,7 +32,7 @@ body{
     outline: none;
     border-radius: 7px;
     padding: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 .mt{
     display: flex;
@@ -42,7 +42,7 @@ body{
 .banner-two-person{
     width: 40%;
     height: 20%;
-    padding-left: 150px;
+    padding-left: 100px;
     
 }
 .person-banner-text{
